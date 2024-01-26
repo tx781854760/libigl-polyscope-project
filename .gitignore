@@ -1,6 +1,10 @@
 # Build directories
 build/
 build_debug/
+cmake-build-debug/
+
+# IDEs
+.idea/
 
 # Editor and OS things
 imgui.ini
